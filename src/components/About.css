@@ -1,0 +1,32 @@
+/* About.css */
+
+.about-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Abouth2 {
+    color: #333;
+  }
+  
+  .Abouth3 {
+    color: #555;
+  }
+  
+  .Aboutp {
+    color: #555;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 0.5rem;
+  }
+  

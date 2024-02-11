@@ -1,0 +1,34 @@
+/* Navbar.css */
+
+nav {
+    background-color: #333;
+    padding: 1rem;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 1rem;
+  }
+  
+  li:last-child {
+    margin-right: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #a6f06a; /* Change the color on hover as needed */
+  }
+  
